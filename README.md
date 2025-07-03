@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sharon Raphael
 
-🚀 DevOps Engineer | Cloud Platform Engineer | AWS & Kubernetes Enthusiast  
+🚀 DevOps Engineer | Cloud Platform Engineer
 📍 Bangalore, India | 🌐 [LinkedIn](https://www.linkedin.com/in/sharonraphael/) | ✉️ sharon.rc.official@gmail.com
 
 ---
@@ -18,13 +18,10 @@
 
 ## ✨ Fun Facts
 
-- 🧪 Passionate about clean DevOps architecture and automation  
+- 🧪 Passionate about clean and secure DevOps architecture and automation  
 - 📚 Continuous learner of new DevOps tooling and cloud patterns
 - 🛠️ System design enthusiast about real world challenges and solutions
+- ♟️ Avid Chess Player. Connect with me on chess.com [here](https://www.chess.com/member/sharoncr/)
 
 ---
-
-## 📈 GitHub Stats
-
-![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharonraphael&show_icons=true&theme=tokyonight)
 
