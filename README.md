@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Sharon Raphael
 
-<!--
-**sharon-raphael/sharon-raphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | Cloud Platform Engineer | AWS & Kubernetes Enthusiast  
+📍 Bangalore, India | 🌐 [LinkedIn](https://www.linkedin.com/in/sharonraphael/) | ✉️ sharon.rc.official@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Toolbox
+
+- **Cloud:** AWS 
+- **Containers & Orchestration:** Docker, Kubernetes (EKS), Karpenter, Cluster Autoscaler  
+- **Infrastructure as Code:** Terraform, Terragrunt, CloudFormation, Helm, Ansible, Boto3  
+- **Monitoring & Observability:** Prometheus, Grafana, CloudWatch, SumoLogic, Jaeger, Istio , OpenSearch, ELK
+- **CI/CD Pipelines:** Jenkins, GitLab CI
+- **Languages:** Shell, Python, Groovy, Java (SpringBoot), Go
+
+---
+
+## ✨ Fun Facts
+
+- 🧪 Passionate about clean DevOps architecture and automation  
+- 📚 Continuous learner of new DevOps tooling and cloud patterns
+- 🛠️ System design enthusiast about real world challenges and solutions
+
+---
+
+## 📈 GitHub Stats
+
+![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharonraphael&show_icons=true&theme=tokyonight)
+
